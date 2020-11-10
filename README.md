@@ -6,7 +6,7 @@ What is the process behind the Rail network ?
 Here in our project: The Railway Network, we have tried to explain how the Billing System, the Reservation and the
 Accounts Department works.
 
-## Objectives
+## Objective
 The main objective of the this project is to understand how to Rail Network works so efficiently
 with very little to none flaws and we have been using Cisco Packet Tracer to simulate the whole
 thing.
